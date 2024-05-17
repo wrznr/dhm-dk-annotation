@@ -116,6 +116,28 @@ count: false
 
 ---
 
+# Linguistic annotation – rule-based approaches
+
+- General approach of the so-called *artificial intelligence* up to the information age
+    + Touch of unscientific nature in statistical methods
+    + Especially in linguistics:
+    > It's true there's been a lot of work on trying to apply statistical models to various linguistic problems. I think there have been some successes, but a lot of failures. There is a notion of success ... which I think is novel in the history of science. It interprets success as approximating unanalyzed data. ([Chomsky 2011](https://www.youtube.com/watch?v=jgbCXBJTpjs))
+- Aim to understand cognitive processes and the development of an overall construct of human language processing interacting across modules
+
+---
+
+# Linguistic annotation – machine-learning approaches
+
+- General approach to AI nowadays
+    + Strong reliance on data-driven methods
+    + Especially in linguistics:
+    > Machine learning models, particularly neural networks, have shown remarkable success in various linguistic tasks. These models can learn complex patterns and structures from large datasets without explicit programming.
+    > "In many cases, the models do not require prior linguistic knowledge but can still achieve high performance in tasks like translation, speech recognition, and text generation." ([Jurafsky & Martin, 2020](https://web.stanford.edu/~jurafsky/slp3/))
+- Aim to optimize algorithms for pattern recognition and prediction by leveraging vast amounts of data
+    + Development of end-to-end systems that integrate multiple stages of language processing into a unified model
+
+---
+
 class: part-slide
 count: false
 
