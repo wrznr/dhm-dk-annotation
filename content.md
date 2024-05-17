@@ -133,6 +133,7 @@ count: false
     + Aim to optimize pattern recognition and prediction using vast data
     + Development of integrated end-to-end language processing systems
     > "In many cases, the models do not require prior linguistic knowledge but can still achieve high performance in tasks like translation, speech recognition, and text generation." ([Jurafsky & Martin, 2020](https://web.stanford.edu/~jurafsky/slp3/))
+- No deeper understanding of the underlying mechanisms necessary
 
 ---
 
