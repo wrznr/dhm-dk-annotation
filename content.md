@@ -126,15 +126,13 @@ count: false
 
 ---
 
-# Linguistic annotation – machine-learning approaches
+# Linguistic annotation – statistical approaches
 
 - General approach to AI nowadays
-    + Strong reliance on data-driven methods
-    + Especially in linguistics:
-    > Machine learning models, particularly neural networks, have shown remarkable success in various linguistic tasks. These models can learn complex patterns and structures from large datasets without explicit programming.
+    + Data-driven methods
+    + Aim to optimize pattern recognition and prediction using vast data
+    + Development of integrated end-to-end language processing systems
     > "In many cases, the models do not require prior linguistic knowledge but can still achieve high performance in tasks like translation, speech recognition, and text generation." ([Jurafsky & Martin, 2020](https://web.stanford.edu/~jurafsky/slp3/))
-- Aim to optimize algorithms for pattern recognition and prediction by leveraging vast amounts of data
-    + Development of end-to-end systems that integrate multiple stages of language processing into a unified model
 
 ---
 
