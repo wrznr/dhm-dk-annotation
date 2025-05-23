@@ -524,5 +524,5 @@ count: false
 # Many thanks for your attention!
 
 <center>
-<a href="https://wrznr.github.io/slide-template/">wrznr.github.io/slide-template</a>
+<a href="https://wrznr.github.io/dhm-dk-annotation/">wrznr.github.io/dhm-dk-annotation</a>
 </center>
