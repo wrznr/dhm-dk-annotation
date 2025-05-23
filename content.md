@@ -25,7 +25,7 @@ layout: true
       <td style="text-align:left">Referat 4.3</td>
     </tr>
     <tr>
-      <td style="font-size:8pt"><b>17th May 2024</b></td>
+      <td style="font-size:8pt"><b>22nd May 2025</b></td>
     </tr>
     <tr>
       <td style="font-size:8pt">Seminar Datenkompetenz</td>
@@ -435,6 +435,32 @@ count: false
     + Usage of words
 - Used in combination with collocation extraction (see below)
     + [DWDS word profile](https://www.dwds.de/wp?q=)
+
+---
+
+
+class: part-slide
+count: false
+
+# Named Entity Recognition
+
+---
+
+# Named Entity Recognition
+
+- Part of linguistic annotation at the **word group** level
+- Goal: automatic detection of **named entities** such as:
+    + Persons (`PER`)
+    + Locations (`LOC`, `GPE`)
+    + Organizations (`ORG`)
+    + Dates (`DATE`), events (`EVENT`) etc.
+- Common use cases:
+    + **Text mining**, biography extraction
+    + **Digital history**, historical editions
+    + **Search systems**, **knowledge graphs** (e.g. Wikidata)
+
+> “Goethe visited Weimar in 1775.”  
+> → `PER`: *Goethe*, `LOC`: *Weimar*, `DATE`: *1775*
 
 ---
 
