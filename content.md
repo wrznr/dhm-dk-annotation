@@ -459,8 +459,27 @@ count: false
     + **Digital history**, historical editions
     + **Search systems**, **knowledge graphs** (e.g. Wikidata)
 
-> “Goethe visited Weimar in 1775.”  
-> → `PER`: *Goethe*, `LOC`: *Weimar*, `DATE`: *1775*
+> “Friedrich Schiller visited Weimar in 1775.”  
+> → `PER`: *Friedrich Schiller*, `LOC`: *Weimar*, `DATE`: *1775*
+
+---
+
+# Named Entity Recognition
+
+# NER: Rule-based vs. statistical
+
+Rule-based:
++ Lists of known names (gazetteers)
++ Hand-written rules (e.g. capitalization, context)
++ High precision but low flexibility
+
+Statistical / Machine learning:
++ NER as **sequence classification**
++ Trained on **annotated corpora**
++ Learns patterns automatically – tools include:
+    + spaCy
+    + Stanford NER
+    + Flair, HuggingFace Transformers
 
 ---
 
